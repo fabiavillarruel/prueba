@@ -50,3 +50,7 @@ Escrito con ***italica y negrita***
 Para instalar Windows hacer click en la tecla `Alt`
 
 ``Para confirmar la operacion presionar `Enter` y ya está``
+
+---
+
+Mi nombre es [Fabia Villarruel](https://github.com/fabiavillarruel) y si, es un link
