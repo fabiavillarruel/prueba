@@ -2,38 +2,38 @@
 ![Saliste hermoso, como siempre](/img/el.jpg)
 
 
-Escrito con **negrita**
+Escrito con **amor**
 
-Escrito en *italica*
+Escrito en *Merlo*
 
-Escrito con ***italica y negrita***
-
----
-
->Anidando ventanas
->>Asi es como pongo una ventana dentro
+Escrito para ***la posteridad***
 
 ---
 
-## Lista desordenada
-
-- Elemento de lista a
-- Elemento de lista b
-  - Subelemento de la lista b1
-  - Subelemento de la lista b2
+>Persiguiendo esa vida
+>>Cual es su final?
 
 ---
 
-## Lista ordenada
+## Lista de proyectos
 
-1. Elemento primero
-    1. Subelemento del primero a1
-    2. Subelemento del primero a2
-2. Elemento segundo
+- Escuadrón
+- Procyon
+  - *Push* para mandar de local a remoto
+  - *Pull* para mandar de remoto a local
 
 ---
 
-## Código HTML
+## Lista de deseos
+
+1. Poder volver a compartir:
+    1. Abrazos
+    2. Música
+2. Vivir juntos en paz y armonía
+
+---
+
+## Código a lo Procyon
 
 <html>
   <body>
@@ -49,11 +49,13 @@ Escrito con ***italica y negrita***
 
 Para instalar Windows hacer click en la tecla `Alt`
 
-``Para confirmar la operacion presionar `Enter` y ya está``
+``Para confirmar la operacion presionar Enter y ya está``
+
+Ah re que no sabía nada como el `hacker`
 
 ---
 
 Mi nombre es **[Fabia Villarruel](https://github.com/fabiavillarruel "Amo a un mapache muy especial")** y si pasas el cursor a mi nombre hay un mensaje.
 
-Mi contacto es <fabiaalicia@algo.com>
+Mi contacto es <fabiaalicia@algo.com> llamame (guiño)
 
