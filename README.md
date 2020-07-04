@@ -59,3 +59,6 @@ Mi nombre es **[Fabia Villarruel](https://github.com/fabiavillarruel "Amo a un m
 
 Mi contacto es <fabiaalicia@algo.com> llamame (guiño)
 
+---
+
+Todo fue verificado
