@@ -9,7 +9,12 @@ Escrito en *italica*
 
 Escrito con ***italica y negrita***
 
-### Subtitulo 1
+## Lista desordenada
 
 - Elemento de lista a
 - Elemento de lista b
+
+## Lista ordenada
+
+1. Elemento primero
+2. Elemento segundo
