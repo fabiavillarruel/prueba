@@ -19,14 +19,22 @@ Escrito con ***italica y negrita***
 ## Lista ordenada
 
 1. Elemento primero
-  1. Subelemento del primero a1
-  2. Subelemento del primero a2
+    1. Subelemento del primero a1
+    2. Subelemento del primero a2
 2. Elemento segundo
 
 #Codigo HTML
 
 <html>
   <body>
-    <h1> Hola soy un h1 </h1>
+    <h3> Hola soy un h3 </h3>
+    <p> Yo soy un parrafo</p>
+    <span> Esto es un span </span>
   </body>
 </html>
+
+#Mostrar texto como codigo html
+
+Para instalar Windows hacer click en la tecla `Alt`
+
+``Para confirmar la operacion presionar `Enter` y ya está``
