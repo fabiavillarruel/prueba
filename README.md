@@ -1,5 +1,5 @@
 # Bienvenido a mi README
-![Philadelphia's Magic Gardens. This place was so cool!](/assets/images/philly-magic-gardens.jpg "Philadelphia's Magic Gardens")
+![Saliste hermoso, como siempre](/img/el.jpg)
 
 
 Escrito con **negrita**
