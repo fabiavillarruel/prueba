@@ -1,13 +1,19 @@
 # Prueba con el README
 
+---
+
 Escrito con **negrita**
 
 Escrito en *italica*
 
+Escrito con ***italica y negrita***
+
+---
+
 >Anidando ventanas
 >>Asi es como pongo una ventana dentro
 
-Escrito con ***italica y negrita***
+---
 
 ## Lista desordenada
 
@@ -16,6 +22,8 @@ Escrito con ***italica y negrita***
   - Subelemento de la lista b1
   - Subelemento de la lista b2
 
+---
+
 ## Lista ordenada
 
 1. Elemento primero
@@ -23,7 +31,9 @@ Escrito con ***italica y negrita***
     2. Subelemento del primero a2
 2. Elemento segundo
 
-#Codigo HTML
+---
+
+## Código HTML
 
 <html>
   <body>
@@ -33,7 +43,9 @@ Escrito con ***italica y negrita***
   </body>
 </html>
 
-#Mostrar texto como codigo html
+---
+
+## Mostrar texto como codigo html
 
 Para instalar Windows hacer click en la tecla `Alt`
 
